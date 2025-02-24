@@ -1,0 +1,45 @@
+Network Interface
+- It provides or establishes connection between hardware/software with the network.
+- consist of IP address, InterfaceName,  MAC address
+
+
+- A network interface refers to the hardware and software components that allow a device to connect to the network.
+
+Lab1 Questions - WAP in java to extract InetAddress of DNS of your choice
+              - WAP in java to demonstrate the use of different factory methods like getByName, getlocalhost,gethostname,gethostaddress.
+              - WAP in java to demonstrate reachability test 
+              - WAp in java to resolve INet4 and Inet6 address of google.com
+              
+                lab Format
+                -theory
+                -code
+                -Output 
+                -conclusion
+
+
+Lab2 Question   -WAP in java to demonstrate SpamCheck.
+                -WAP in java to demonstrate Web Server log file processing.
+                -WAP in java to Create, Retrieve and Split a URL.
+
+
+
+URL Connection:
+-> This class allows our java program to communicate with the server over the internet.
+-> Includes MIME (Multipurpose Internet Mail )
+
+
+Openning URLConnection: 
+-> Create an URL Object.
+      URL url = new URL("")
+-> Open the connection / Invoke openConnection() method.
+      URLConnection connection = URLConnection.openConnection()
+-> Configure the URL(Optional)
+-> Get the HEader Fields
+-> Read the input stream
+-> output stream
+-> Close the connection
+      
+
+
+
+--JSONPlaceholder
