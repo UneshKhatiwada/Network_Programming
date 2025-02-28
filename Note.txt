@@ -39,6 +39,11 @@ Openning URLConnection:
 -> output stream
 -> Close the connection
       
+Steps for github
+-> git init
+-> git add .
+-> git commit -m "message"
+-> git push origin main
 
 
 
