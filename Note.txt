@@ -46,5 +46,21 @@ Steps for github
 -> git push origin main
 
 
+Question for Chapter 5
+1. What is a URL. What are the components of URLs
+2. WAP to download a page and read it properties?
+3. What is URl Connection?
+4. Explain the basic steps to use the URL connection class and write a suitable program sample?
+5. How do you read data from server explain with an example
+6. Mention the method to reterive specific mime headers fieds. WAP to read URL showing the methods to print their content type,          content   lenght, content encoding, date pf last modification, expiration date and current date?
+7. How can we retrieve forgetoryHeaderField?
+8. Write about web cache for java
+9. Write shorts notes on 
+      ->WebCache for java
+      ->protected instant fiels in URL connection class 
+      ->protected URL, connected, allow user interaction.
+10. Explain about the security consideration for uRL connection
+11. What is Proxy and Streaming mode
+
 
 --JSONPlaceholder
